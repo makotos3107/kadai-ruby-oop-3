@@ -9,3 +9,6 @@ class Animal
         puts "#{self.name}です。#{self.age}歳です。"
     end
 end
+
+# animal = Animal.new('田中　太朗', 25)
+# animal.say
